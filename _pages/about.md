@@ -19,7 +19,7 @@ redirect_from:
 
 I am pursuing Ph.D at [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), School of Engineering, Westlake University (Hangzhou, China), affiliated with a joint-supervision program with Zhejiang University, supervised by Prof. Lin Yang. Before that, I received my B.Eng Degree from School of Automation Science and Electrical Engineering, [Beihang University](https://www.buaa.edu.cn/) (Beijing, China) in June 2021.
 
-My research interest includes medical image analysis and computer vision. I have worked on developing advanced detection methods for microscopy images. Currently, my research is centered on **Visual-Language Models** and **Multi-Modal Pretraining** for gigapixel whole slide images.
+My research interest includes medical image analysis and computer vision. I have worked on developing advanced detection methods for microscopy images. Currently, my research is centered on **Multi-Modal Pretraining and Alignment** for gigapixel whole slide images.
 
 
 
