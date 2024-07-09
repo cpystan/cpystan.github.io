@@ -42,6 +42,8 @@ My research interest includes medical image analysis and computer vision. I have
 
 
 - Large-scale visual-language alignment for whole slide images which shows superior zero-shot classification and retrieval performance. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/wsivqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
