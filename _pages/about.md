@@ -59,13 +59,13 @@ European Conference on Computer Vision (ECCV 2024)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/wsicaption.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2024</div><img src='images/wsicaption.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images** 
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
 
-Pingyi Chen, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
+**Pingyi Chen**, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
 
 [**Paper**](https://arxiv.org/abs/2311.16480)[**Project**](https://github.com/cpystan/Wsi-Caption) 
 - Establish a pathology report dataset with GPT.
@@ -73,19 +73,23 @@ Pingyi Chen, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
 </div>
 </div>
 
-- [Exploring Unsupervised Cell Recognition with Prior Self-activation Maps](https://arxiv.org/abs/2308.11144), **Pingyi Chen**, Chenglu Zhu, Zhongyi Shui, Jiatong Cai, Sunyi Zheng, Shichuan Zhang, Lin Yang**MICCAI 2023**
+- [Exploring Unsupervised Cell Recognition with Prior Self-activation Maps](https://arxiv.org/abs/2308.11144). **Pingyi Chen**, Chenglu Zhu, Zhongyi Shui, Jiatong Cai, Sunyi Zheng, Shichuan Zhang, Lin Yang **MICCAI 2023**
+
+- [Category Separation For Weakly Supervised Multi-Class Cell Counting](https://ieeexplore.ieee.org/document/9761703).
+  Jiatong Cai; Chenglu Zhu; **Pingyi Chen**; Shichuan Zhang; Honglin Li; Yuxuan Sun; Lin Yang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* Zhejiang University 2023 Outstanding Graduates.
+- *2022.12* Zhejiang University 2022 Outstanding Graduates.
+- *2022.06* Westlake University Outstanding Cadres of the Graduate Student Union.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - (now)*, Ph.D candidate at Westlake University & Zhejiang University. 
+- *2017.09 - 2021.06*, Bachelor of Engineering, Automation, Beihang University, Beijing, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks
+- *2024.07*, [MICS 2024 Student Achievement Short Video Competition](https://www.bilibili.com/video/BV1cM4m1U7iw/?spm_id_from=333.999.list.card_archive.click&vd_source=88214ac3a77906c7df27f2a5313e8530). 
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03 - 2021.08*, SenseTime（商汤）Research, Beijing, China.
