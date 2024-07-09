@@ -26,8 +26,11 @@ My research interest includes medical image analysis and computer vision. I have
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by European Conference on Computer Vision (ECCV 2024)!
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)!.
+- *2023.12*: &nbsp;🎉🎉 Awarded as Zhejiang University 2023 Outstanding Graduates!
+- *2023.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)!.
+- *2022.12*: &nbsp;🎉🎉 Awarded as Zhejiang University 2022 Outstanding Graduates!
+- *2022.01*: &nbsp;🎉🎉 One paper was accepted by IEEE International Symposium on Biomedical Imaging (ISBI 2022)!
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
