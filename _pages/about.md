@@ -53,7 +53,7 @@ European Conference on Computer Vision (ECCV 2024)
 
 **Pingyi Chen**, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang
 
-[**Paper**](https://arxiv.org/abs/2407.05603)[**Project**](https://github.com/cpystan/WSI-VQA) 
+[**Paper**](https://arxiv.org/abs/2407.05603) [**Project**](https://github.com/cpystan/WSI-VQA) 
 - Establish a scalable pipeline to curate slide-level VQA datasets.
 - Propose a WSI-VQA framework to reframe previous WSI-related tasks into a QA pattern.
 </div>
@@ -67,7 +67,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 **Pingyi Chen**, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
 
-[**Paper**](https://arxiv.org/abs/2311.16480)[**Project**](https://github.com/cpystan/Wsi-Caption) 
+[**Paper**](https://arxiv.org/abs/2311.16480) [**Project**](https://github.com/cpystan/Wsi-Caption) 
 - Establish a pathology report dataset with GPT.
 - Propose a multiple instance generation (**MI-Gen**) to generate text based on gigapixel inputs.
 </div>
