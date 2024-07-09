@@ -48,18 +48,32 @@ My research interest includes medical image analysis and computer vision. I have
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/wsivqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering**] (https://arxiv.org/abs/2407.05603)
+**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering** 
+European Conference on Computer Vision (ECCV 2024)
 
-**Pingyi CHen**, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang
+**Pingyi Chen**, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang
 
-[**Project**](https://github.com/cpystan/WSI-VQA) 
-- Establish a scalable pipeline to curate slide-level VQA datasets
+[**Paper**](https://arxiv.org/abs/2407.05603)[**Project**](https://github.com/cpystan/WSI-VQA) 
+- Establish a scalable pipeline to curate slide-level VQA datasets.
 - Propose a WSI-VQA framework to reframe previous WSI-related tasks into a QA pattern.
-
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/wsicaption.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images** 
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
+
+Pingyi Chen, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
+
+[**Paper**](https://arxiv.org/abs/2311.16480)[**Project**](https://github.com/cpystan/Wsi-Caption) 
+- Establish a pathology report dataset with GPT.
+- Propose a multiple instance generation (**MI-Gen**) to generate text based on gigapixel inputs.
+</div>
+</div>
+
+- [Exploring Unsupervised Cell Recognition with Prior Self-activation Maps](https://arxiv.org/abs/2308.11144), **Pingyi Chen**, Chenglu Zhu, Zhongyi Shui, Jiatong Cai, Sunyi Zheng, Shichuan Zhang, Lin Yang**MICCAI 2023**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
