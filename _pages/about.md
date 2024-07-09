@@ -40,7 +40,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 **WiLA: Large-Scale Whole-Slide Image-Language Alignment of Pathology Foundation Models** (Under Review of IEEE Transactions on Medical Imaging)
 
-**Pingyi CHen**, Chenglu Zhu, Honglin Li, Jingxiong Li, Lin Yang
+**Pingyi Chen**, Chenglu Zhu, Honglin Li, Jingxiong Li, Lin Yang
 
 
 - Large-scale visual-language alignment for whole slide images which shows superior zero-shot classification and retrieval performance. 
