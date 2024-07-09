@@ -31,10 +31,8 @@ My research interest includes medical image analysis and computer vision. I have
 - *2023.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)!.
 - *2022.12*: &nbsp;🎉🎉 Awarded as Zhejiang University 2022 Outstanding Graduates!
 - *2022.01*: &nbsp;🎉🎉 One paper was accepted by IEEE International Symposium on Biomedical Imaging (ISBI 2022)!
-- 
-# 📝 Publications 
 
-## Recent Highlights
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
