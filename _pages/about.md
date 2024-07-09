@@ -69,7 +69,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 
 [**Paper**](https://arxiv.org/abs/2311.16480) [**Project**](https://github.com/cpystan/Wsi-Caption) 
 - Establish a pathology report dataset with GPT.
-- Propose a multiple instance generation (**MI-Gen**) to generate text based on gigapixel inputs.
+- Propose a multiple instance generation (**MI-Gen**) framework to generate text based on gigapixel inputs.
 </div>
 </div>
 
