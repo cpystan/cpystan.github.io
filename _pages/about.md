@@ -31,8 +31,10 @@ My research interest includes medical image analysis and computer vision. I have
 - *2023.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)!.
 - *2022.12*: &nbsp;🎉🎉 Awarded as Zhejiang University 2022 Outstanding Graduates!
 - *2022.01*: &nbsp;🎉🎉 One paper was accepted by IEEE International Symposium on Biomedical Imaging (ISBI 2022)!
+- 
 # 📝 Publications 
 
+## Recent Highlights
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,7 +78,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
 - [Exploring Unsupervised Cell Recognition with Prior Self-activation Maps](https://arxiv.org/abs/2308.11144). **Pingyi Chen**, Chenglu Zhu, Zhongyi Shui, Jiatong Cai, Sunyi Zheng, Shichuan Zhang, Lin Yang **MICCAI 2023**
 
 - [Category Separation For Weakly Supervised Multi-Class Cell Counting](https://ieeexplore.ieee.org/document/9761703).
-  Jiatong Cai; Chenglu Zhu; **Pingyi Chen**; Shichuan Zhang; Honglin Li; Yuxuan Sun; Lin Yang
+  Jiatong Cai, Chenglu Zhu, **Pingyi Chen**, Shichuan Zhang, Honglin Li, Yuxuan Sun, Lin Yang **IEEE ISBI 2022**
 
 # 🎖 Honors and Awards
 - *2023.12* Zhejiang University 2023 Outstanding Graduates.
