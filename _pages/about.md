@@ -33,15 +33,25 @@ My research interest includes medical image analysis and computer vision. I have
 - *2022.01*: &nbsp;🎉🎉 One paper was accepted by IEEE International Symposium on Biomedical Imaging (ISBI 2022)!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+WiLA: Large-Scale Whole-Slide Image-Language Alignment of Pathology Foundation Models (Under Review of IEEE Transactions on Medical Imaging)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Pingyi CHen**, Chenglu Zhu, Honglin Li, Jingxiong Li, Lin Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- Large-scale visual-language alignment for whole slide images which shows superior zero-shot classification and retrieval performance. 
+
+- 
+[WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering] (https://arxiv.org/abs/2407.05603)
+
+**Pingyi CHen**, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang
+
+[**Project**](https://github.com/cpystan/WSI-VQA) 
+- Establish a scalable pipeline to curate slide-level VQA datasets
+- Propose a WSI-VQA framework to reframe previous WSI-related tasks into a QA pattern.
+
 </div>
 </div>
 
