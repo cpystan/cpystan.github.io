@@ -36,15 +36,17 @@ My research interest includes medical image analysis and computer vision. I have
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-WiLA: Large-Scale Whole-Slide Image-Language Alignment of Pathology Foundation Models (Under Review of IEEE Transactions on Medical Imaging)
+**WiLA: Large-Scale Whole-Slide Image-Language Alignment of Pathology Foundation Models** (Under Review of IEEE Transactions on Medical Imaging)
 
 **Pingyi CHen**, Chenglu Zhu, Honglin Li, Jingxiong Li, Lin Yang
 
 
 - Large-scale visual-language alignment for whole slide images which shows superior zero-shot classification and retrieval performance. 
 
-- 
-[WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering] (https://arxiv.org/abs/2407.05603)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wsivqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering**] (https://arxiv.org/abs/2407.05603)
 
 **Pingyi CHen**, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang
 
