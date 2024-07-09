@@ -33,7 +33,7 @@ My research interest includes medical image analysis and computer vision. I have
 - *2022.01*: &nbsp;🎉🎉 One paper was accepted by IEEE International Symposium on Biomedical Imaging (ISBI 2022)!
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/wila.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WiLA: Large-Scale Whole-Slide Image-Language Alignment of Pathology Foundation Models** (Under Review of IEEE Transactions on Medical Imaging)
@@ -43,7 +43,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 - Large-scale visual-language alignment for whole slide images which shows superior zero-shot classification and retrieval performance. 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/wsivqa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/wsivqa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering**] (https://arxiv.org/abs/2407.05603)
