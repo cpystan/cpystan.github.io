@@ -25,6 +25,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One MICCAI 2024 paper was invited as **oral** presentation!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by European Conference on Computer Vision (ECCV 2024)!
 - *2024.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)!.
 - *2023.12*: &nbsp;🎉🎉 Awarded as Zhejiang University 2023 Outstanding Graduates!
@@ -63,7 +64,7 @@ European Conference on Computer Vision (ECCV 2024)
 <div class='paper-box-text' markdown="1">
 
 **WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images** 
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024 oral)
 
 **Pingyi Chen**, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
 
