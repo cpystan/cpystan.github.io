@@ -25,6 +25,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Awarded as **MICCAI Young Scientist Award**!
 - *2024.09*: &nbsp;🎉🎉 One MICCAI 2024 paper was invited as **oral** presentation!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by European Conference on Computer Vision (ECCV 2024)!
 - *2024.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)!.
