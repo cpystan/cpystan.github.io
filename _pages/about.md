@@ -25,7 +25,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Awarded as **MICCAI Young Scientist Award** (Top 5)!
+- *2024.10*: &nbsp;🎉🎉 Awarded as [**MICCAI Young Scientist Award**](https://github.com/cpystan/cpystan.github.io/blob/main/images/YSA.jpg) (Top 5)!
 - *2024.09*: &nbsp;🎉🎉 One MICCAI 2024 paper was invited as **oral** presentation!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by European Conference on Computer Vision (ECCV 2024)!
 - *2024.05*: &nbsp;🎉🎉 One paper was **Early Accepted** by International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)!.
@@ -65,7 +65,7 @@ European Conference on Computer Vision (ECCV 2024)
 <div class='paper-box-text' markdown="1">
 
 **WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images** 
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024 oral)
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2024 Oral/Best Paper Candidate)
 
 **Pingyi Chen**, Honglin Li, Chenglu Zhu, Sunyi Zheng, Zhongyi Shui, Lin Yang
 
@@ -81,6 +81,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
   Jiatong Cai, Chenglu Zhu, **Pingyi Chen**, Shichuan Zhang, Honglin Li, Yuxuan Sun, Lin Yang **IEEE ISBI 2022**
 
 # 🎖 Honors and Awards
+- *2024.10* [MICCAI Young Scientist Award](https://github.com/cpystan/cpystan.github.io/blob/main/images/YSA.jpg).
 - *2023.12* Zhejiang University 2023 Outstanding Graduates.
 - *2022.12* Zhejiang University 2022 Outstanding Graduates.
 - *2022.06* Westlake University Outstanding Cadres of the Graduate Student Union.
