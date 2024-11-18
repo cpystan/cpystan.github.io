@@ -25,6 +25,7 @@ My research interest includes medical image analysis and computer vision. I have
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Awarded as Zhejiang University 2024 National Scholarship!
 - *2024.10*: &nbsp;🎉🎉 Awarded as [**MICCAI Young Scientist Award**](https://github.com/cpystan/cpystan.github.io/blob/main/images/YSA.jpg) (Top 5)!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2024!
 - *2024.09*: &nbsp;🎉🎉 One MICCAI 2024 paper was invited as **oral** presentation!
@@ -82,6 +83,7 @@ International Conference on Medical Image Computing and Computer Assisted Interv
   Jiatong Cai, Chenglu Zhu, **Pingyi Chen**, Shichuan Zhang, Honglin Li, Yuxuan Sun, Lin Yang **IEEE ISBI 2022**
 
 # 🎖 Honors and Awards
+- *2024.11* Zhejiang University 2024 National Scholarship.
 - *2024.10* [MICCAI Young Scientist Award](https://github.com/cpystan/cpystan.github.io/blob/main/images/YSA.jpg).
 - *2023.12* Zhejiang University 2023 Outstanding Graduates.
 - *2022.12* Zhejiang University 2022 Outstanding Graduates.
